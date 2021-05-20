@@ -26,7 +26,7 @@
 
 ### Hi there 👋
 
-I'm Etienne 26, junior web developer following the beCode bootcamp. Whether it was during my studies at EPHEC or more recently at BeCode, I have often had the opportunity to apply my skills learned during courses for real clients. These different experiences allowed me to gain a strong sense of responsibility, but also improved my ability to work in a team effectively and autonomously using agile project development methods. 
+I'm Etienne 26, junior web developer following the BeCode bootcamp. Whether it was during my studies at EPHEC or more recently at BeCode, I have often had the opportunity to apply my skills learned during courses for real clients. These different experiences allowed me to gain a strong sense of responsibility, but also improved my ability to work in a team effectively and autonomously using agile project development methods. 
 
 Currently learning a lot about JavaScript ES6 and Javascript Framwork : ReactJs for the frontend and AdonisJs for the backend. You can see several of those projects pinned on my GitHub page.
 
