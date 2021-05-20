@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 - 💬 Don't mind asking me anything about me or my project I'll be glad to answer to your questions!
 - 📫 Reach me directly on [LinkedIn](https://www.linkedin.com/in/etiennelefevrelinkd/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Octopus arms have their own mind, they can work independently that the rest of the octopus. (Yepe I'm an animal lover and watch a lot of documentary about them 🐙🦝)
+- ⚡ Fun fact: Octopus arms have their own mind, they can work independently from the rest of the octopus. (Yepe I'm an animal lover and watch a lot of documentary about them 🐙🦝)
