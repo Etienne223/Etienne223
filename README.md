@@ -1,16 +1,44 @@
+<a href="https://www.linkedin.com/in/etiennelefevrelinkd/">
+  <img align="left" alt="Etienne's Discord" width="20px" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621501111~hmac=a1508856f6c7ed39b9404930bdc4c4ba" />
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Hi there 👋
 
-<!--
-**Etienne223/Etienne223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Etienne 26, junior web developer following the beCode bootcamp. Whether it was during my studies at EPHEC or more recently at BeCode, I have often had the opportunity to apply my skills learned during courses for real clients. These different experiences allowed me to gain a strong sense of responsibility, but also improved my ability to work in a team effectively and autonomously using agile project development methods. 
+
+Currently learning a lot about JavaScript ES6 and Javascript Framwork : ReactJs for the frontend and AdonisJs for the backend. You can see several of those projects pinned on my GitHub page.
+
+
+
+[![Etienne223's GitHub stats](https://github-readme-stats.vercel.app/api?username=Etienne223&show_icons=true&theme=tokyonight&icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently on a Quiz Plateform where people can add their own question packages to play with their friend.
+- 🌱Learning AdonisJS and ReactJS
+- 💬 Don't mind asking me anything about me or my project I'll be glad to answer to your questions!
+- 📫 Reach me directly on [LinkedIn](https://www.linkedin.com/in/etiennelefevrelinkd/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Octopus arms have their own mind, they can work independently that the rest of the octopus. (Yepe I'm an animal lover and watch a lot of documentary about them 🐙🦝)
