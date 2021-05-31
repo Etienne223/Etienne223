@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/etiennelefevrelinkd/">
-  <img align="left" alt="Etienne's Discord" width="20px" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621501111~hmac=a1508856f6c7ed39b9404930bdc4c4ba" />
+  <img align="left" alt="Etienne's LinkeDin" width="20px" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621501111~hmac=a1508856f6c7ed39b9404930bdc4c4ba" />
 </a>
 
 
